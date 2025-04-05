@@ -1,7 +1,3 @@
-# api-financial-consultancy
-
-
-
 <p align="center">
   <img src = "/image/1115944432.png" width="300">
 </p>
