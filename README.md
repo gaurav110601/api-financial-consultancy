@@ -1,5 +1,5 @@
 <p align="center">
-  <img src = "/image/1115944432.png" width="300">
+  <img src = "/code/image/1115944432.png" width="300">
 </p>
 
 <h1 align="center">
@@ -65,10 +65,10 @@ Website (Single Page only):
 ### Sample Snapshots
 
 Website:
-<img src="/image/website.jpeg"/>
+<img src="/code/image/website.jpeg"/>
 
 Admin:
-<img src="/image/admin.jpeg"/>
+<img src="/code/image/admin.jpeg"/>
 
 
 <br><br>
