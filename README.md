@@ -23,7 +23,7 @@ This is a Business Website with an Admin Panel project in PHP Framework, CodeIgn
 
 
 ### About Web App
-This project was developed using PHP, CodeIgniter, MySQL Database, HTML, CSS, Javascript (Ajax and jQuery), Bootstrap, AdminLTE Template, StartBootstrap Free Template (for the website UI), and some other libraries/plugins. The application is easy to use and easy to understand. It has a pleasant Admin Panel and Website user Interface also. This application also has one template for the website. If you wish to use other templates, just check the queries inside the index file of the source code to know and have an idea of how the data are being queried and displayed.
+This project was developed using PHP, CodeIgniter, MySQL Database, HTML, CSS, Javascript (Ajax and jQuery), Bootstrap, Bootstrap Studio, AdminLTE Template, StartBootstrap Free Template (for the website UI), and some other libraries/plugins. The application is easy to use and easy to understand. It has a pleasant Admin Panel and Website user Interface also. This application also has one template for the website. If you wish to use other templates, just check the queries inside the index file of the source code to know and have an idea of how the data are being queried and displayed.
 
 
 <br><br>
